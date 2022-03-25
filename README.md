@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&text=Hi there 👋&fontColor=000000&height=300&section=header&fontSize=50" />
+## shyunni
 
 
 ### 💪 LANGUAGE & FRAMEWORK 
